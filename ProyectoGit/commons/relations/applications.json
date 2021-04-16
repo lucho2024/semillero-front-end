@@ -107,6 +107,14 @@
 				{
 					"generated": 0,
 					"moduleId": "PRYCT",
+					"name": "EstudianteCATAForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTGFVFSUOY_760",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "PRYCT",
 					"name": "EstudiantePGGForm",
 					"subModuleId": "PRYCT",
 					"taskId": "T_PRYCTMNTRRNFD_897",

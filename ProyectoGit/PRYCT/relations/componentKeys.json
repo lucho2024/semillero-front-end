@@ -3,6 +3,9 @@
 		"EN_AABTSAEXR_680": {
 			"name": "EntidadAAB"
 		},
+		"EN_CATAFEYBW_956": {
+			"name": "EntidadCATA"
+		},
 		"EN_CSSSOFUXX_623": {
 			"name": "EntidadCSSS"
 		},
@@ -55,6 +58,9 @@
 			},
 			"T_PRYCTGITHJLHU_357": {
 				"name": "EstudianteAhcForm"
+			},
+                        "T_PRYCTGFVFSUOY_760": {
+				"name": "EstudianteCATAForm"
 			},
 			"T_PRYCTGSQXNCGT_397": {
 				"name": "FormularioLHMM"
