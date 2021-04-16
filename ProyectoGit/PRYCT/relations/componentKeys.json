@@ -9,6 +9,9 @@
       "EN_CSSSYSSLV_599": {
          "name": "EntidadCSSS"
       },
+		"EN_ESTUDIAMN_192": {
+			"name": "EstudianteJCAM"
+		},
       "EN_JCAMEWECL_163": {
          "name": "JCAM"
       },
@@ -38,7 +41,8 @@
       }
    },
    "PRYCT": {
-      "CompositeForms": {},
+		"CompositeForms": {
+		},
       "Forms": {
          "T_PRYCTCBRETPDC_885": {
             "name": "FormularioLACT"
@@ -68,10 +72,15 @@
             "name": "FormulariolLMHM"
          },
          "T_PRYCTSRZMXPQE_683": {
-            "name": "EstudianteAabForm"
+				"name": "FormularioAAB"
+			},
+			"T_PRYCTYDNQOYSI_867": {
+				"name": "EstudianteFormJCAM"
          }
       },
-      "Queries": {},
-      "SubForms": {}
+		"Queries": {
+		},
+		"SubForms": {
+		}
    }
 }
