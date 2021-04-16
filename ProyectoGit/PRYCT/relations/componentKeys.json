@@ -66,7 +66,7 @@
 				"name": "FormularioJCAM"
 			},
 			"T_PRYCTMNTRRNFD_897": {
-				"name": "EstudiantePGGform"
+				"name": "EstudiantePGGForm"
 			},
 			"T_PRYCTNFPETNWE_316": {
 				"name": "FormularioGSC"
@@ -78,15 +78,18 @@
 				"name": "FormularioKBRR"
 			},
 			"T_PRYCTSGSALFQY_996": {
-				"name": "EstudianteLMHMform"
+				"name": "EstudianteLMHMForm"
 			},
 			"T_PRYCTSRZMXPQE_683": {
-				"name": "FormularioAAB"
+				"name": "EstudianteAABForm"
+			},
+			"T_PRYCTUKSLHBEB_695": {
+				"name": "EstudianteKBRRForm"
 			},
 			"T_PRYCTYDNQOYSI_867": {
 				"name": "EstudianteFormJCAM"
 			},
-                        "T_PRYCTZIHNRXGS_644": {
+			"T_PRYCTZIHNRXGS_644": {
 				"name": "EstudianteGscForm"
 			}
 		},

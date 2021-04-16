@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONQGPDKAH_575746",
+		"controlName": "VA_VABUTTONQGPDKAH_575746",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadKBRR",
+		"eventsType": "visualAttributeEventType"
+	}
+]
