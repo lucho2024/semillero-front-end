@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONHDNDZNA_554698",
+		"controlName": "VA_VABUTTONHDNDZNA_554698",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "LuisMontoya",
+		"eventsType": "visualAttributeEventType"
+	}
+]
