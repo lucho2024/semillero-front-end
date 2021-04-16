@@ -1,2 +1,16 @@
 [
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONEOZOFXC_955710",
+		"controlName": "VA_VABUTTONEOZOFXC_955710",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadCSSS",
+		"eventsType": "visualAttributeEventType"
+	}
 ]
