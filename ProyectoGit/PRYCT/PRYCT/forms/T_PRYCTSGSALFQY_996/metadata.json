@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_LUISHAMRU_480",
+			"isContextEntity": null,
+			"moduleId": "PRYCT",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

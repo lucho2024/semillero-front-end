@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "PRYCT",
+	"modules": [
+		{
+			"moduleId": "PRYCT",
+			"moduleName": "ProyectoGitM",
+			"subModules": [
+				{
+					"subModuleId": "PRYCT",
+					"subModuleName": "ProyectoGitSM"
+				}
+			]
+		}
+	],
+	"projectName": "ProyectoGit",
+	"subModuleId": "PRYCT"
+}

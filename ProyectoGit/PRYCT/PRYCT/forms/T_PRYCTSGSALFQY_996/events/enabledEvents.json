@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONNDQNZHK_354804",
+		"controlName": "VA_VABUTTONNDQNZHK_354804",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 1
+			}
+		],
+		"entityName": "LuisHamburger",
+		"eventsType": "visualAttributeEventType"
+	}
+]
