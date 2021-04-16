@@ -1,51 +1,57 @@
 {
-   "CompositeForms": {},
+	"CompositeForms": {
+	},
    "Entities": {
       "EN_AABTSAEXR_680": {
-         "labels": []
+			"labels": [
+			]
       },
-      "EN_CSSSOFUXX_623": {
-         "labels": []
-      },
-      "EN_CSSSYSSLV_599": {
+	"EN_CSSSOFUXX_623": {
 			"labels": [
 			]
 		},
-		"EN_ESTUDIAMN_192": {
+	"EN_CSSSYSSLV_599": {
+			"labels": [
+			]
+		},
+	
+      "EN_KBRRWKQNH_697": {
 			"labels": [
 			]
       },
-      "EN_JCAMEWECL_163": {
-         "labels": []
-      },
-      "EN_KBRRWKQNH_697": {
-         "labels": []
-      },
       "EN_LUISHAMRU_480": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_LUISMONYA_862": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_PERSONAAH_540": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_PERSONADH_729": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_PERSONATC_108": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_PGGEGJUBX_873": {
-         "labels": []
+			"labels": [
+			]
       },
       "EN_PRUEBARHS_234": {
-         "labels": []
+			"labels": [
+			]
       }
    },
    "Forms": {
       "T_PRYCTAKETNGLY_972": {
-         "blis": [],
+			"blis": [
+			],
          "entities": {
             "EN_PERSONAAH_540": [
                "AT31_EDADLHTR540",
@@ -53,14 +59,75 @@
                "AT78_NOMBREUZ540"
             ]
          },
-         "externalEntities": {},
-         "externalQueries": {},
-         "header": [],
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
          "labels": [
             "LBL_PRYCT_APELLIDOO_59986",
             "LBL_PRYCT_EDADTPJRE_42242",
             "LBL_PRYCT_NOMBREMIR_12630"
          ],
+
+   "CompositeForms": {},
+	"Entities": {
+		"EN_AABTSAEXR_680": {
+         "labels": []
+		},
+		"EN_CSSSOFUXX_623": {
+         "labels": []
+		},
+		"EN_CSSSYSSLV_599": {
+         "labels": []
+		},
+		"EN_JCAMEWECL_163": {
+         "labels": []
+		},
+		"EN_KBRRWKQNH_697": {
+         "labels": []
+		},
+		"EN_LUISHAMRU_480": {
+         "labels": []
+		},
+		"EN_LUISMONYA_862": {
+         "labels": []
+		},
+		"EN_PERSONAAH_540": {
+         "labels": []
+		},
+		"EN_PERSONADH_729": {
+         "labels": []
+		},
+		"EN_PERSONATC_108": {
+         "labels": []
+		},
+		"EN_PGGEGJUBX_873": {
+         "labels": []
+		},
+		"EN_PRUEBARHS_234": {
+         "labels": []
+		}
+	},
+	"Forms": {
+		"T_PRYCTAKETNGLY_972": {
+         "blis": [],
+			"entities": {
+				"EN_PERSONAAH_540": [
+					"AT31_EDADLHTR540",
+					"AT40_APELLIDD540",
+					"AT78_NOMBREUZ540"
+				]
+			},
+         "externalEntities": {},
+         "externalQueries": {},
+         "header": [],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_59986",
+				"LBL_PRYCT_EDADTPJRE_42242",
+				"LBL_PRYCT_NOMBREMIR_12630"
+			],
 
 			"queries": {
 			},
@@ -153,6 +220,7 @@
       "T_PRYCTDUFZYTQI_609": {
          "blis": [],
          "entities": {
+
             "EN_PRUEBARHS_234": [
 "AT41_APELLIDO234", 
 "AT92_NOMBREUU234"
@@ -205,10 +273,11 @@
 			},
 			"externalQueries": {
 			},
-         "header": [
-],
-         "labels": [
-"LBL_PRYCT_APELLIDOO_38944", 
+			"header": [
+			],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_38944",
+
 				"LBL_PRYCT_EDADNUIVY_62735",
 				"LBL_PRYCT_INGRESARR_72475",
 				"LBL_PRYCT_NOMBREWVB_56789"
@@ -333,12 +402,12 @@
 			},
 			"subForms": [
 			]
-      },
-      "T_PRYCTRDWNXGNK_963": {
-         "blis": [
-],
-         "entities": {
-},
+		},
+		"T_PRYCTRDWNXGNK_963": {
+			"blis": [
+			],
+			"entities": {
+			},
 			"externalEntities": {
 			},
 			"externalQueries": {
@@ -358,12 +427,14 @@
 			"entities": {
 
 
+
 				"EN_LUISHAMRU_480": [
 					"AT14_NOMBREJF480",
 					"AT25_SEXOSRMY480",
 					"AT36_APELLIDO480",
 					"AT38_EDADWJMD480"
 				]
+
 			},
 			"externalEntities": {
 			},
@@ -473,4 +544,5 @@
       }
    },
    "Queries": {}
+
 }
