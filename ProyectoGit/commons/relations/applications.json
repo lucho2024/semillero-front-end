@@ -5,7 +5,7 @@
 		"forms": {
 			"PRYCT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteLHMMform",
 					"subModuleId": "PRYCT",
@@ -13,7 +13,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteLMHMForm",
 					"subModuleId": "PRYCT",
@@ -21,7 +21,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteKBRRForm",
 					"subModuleId": "PRYCT",
@@ -29,7 +29,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteFormJCAM",
 					"subModuleId": "PRYCT",
@@ -59,7 +59,7 @@
 		"forms": {
 			"PRYCT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteAhcForm",
 					"subModuleId": "PRYCT",
@@ -67,7 +67,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteCSSSForm",
 					"subModuleId": "PRYCT",
@@ -75,7 +75,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteGscForm",
 					"subModuleId": "PRYCT",
@@ -105,7 +105,7 @@
 		"forms": {
 			"PRYCT": [
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteCATAForm",
 					"subModuleId": "PRYCT",
@@ -113,7 +113,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudiantePGGForm",
 					"subModuleId": "PRYCT",
@@ -121,7 +121,7 @@
 					"type": "Simple form"
 				},
 				{
-					"generated": 0,
+					"generated": 4,
 					"moduleId": "PRYCT",
 					"name": "EstudianteAABForm",
 					"subModuleId": "PRYCT",
