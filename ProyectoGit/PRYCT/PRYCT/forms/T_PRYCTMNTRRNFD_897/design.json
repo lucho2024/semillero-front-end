@@ -56,18 +56,273 @@
 					{
 						"collapsedStr": "F",
 						"colSpan": 1,
+						"columnsNum": 2,
 						"componentStyle": null,
 						"customEvents": [
 						],
 						"enabled": 4095,
+						"entity": {
+							"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#"
+						},
 						"eventType": 0,
-						"groupId": "Undefined",
+						"groupId": "G_PGGZCTIKTM_950871",
+						"htmlSection": "F",
+						"independentValidation": "F",
 						"isCustomized": false,
-						"layoutType": "Empty",
-						"name": "Undefined",
+						"layoutType": "Group",
+						"name": "Group1131",
+						"order": 1,
+						"orientation": "V",
+						"responsiveLayouts": null,
+						"responsivity": false,
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT64_APELLIDO873"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_APELLIDOO_19518"
+									},
+									"labelId": "LBL_PRYCT_APELLIDOO_19518",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "apellido",
+								"options": 0,
+								"order": 2,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_APELLIDOGIVOIPA_740871",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT51_EDADXLZU873"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_EDADCNEJP_53756"
+									},
+									"labelId": "LBL_PRYCT_EDADCNEJP_53756",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "edad",
+								"options": 0,
+								"order": 3,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_EDADXXQAWXEQFRN_606871",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT79_NOMBREIH873"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_NOMBRECLP_43519"
+									},
+									"labelId": "LBL_PRYCT_NOMBRECLP_43519",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "nombre",
+								"options": 0,
+								"order": 1,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRETDWKJXBZR_739871",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT34_SEXODZCR873"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_SEXOWQPZN_95789"
+									},
+									"labelId": "LBL_PRYCT_SEXOWQPZN_95789",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "sexo",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SEXODPBKNBFRSXG_736871",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+									{
+										"customEventId": "CEVA_010VA_VABUTTONWQZWNID_868871_239",
+										"customizationLayer": 0,
+										"customizationLayerDescription": "ECU",
+										"enabled": "T",
+										"eventActions": [
+											{
+												"actionArgs": [
+												],
+												"actionId": "CUSTOM",
+												"actionType": "CUSTOM"
+											}
+										],
+										"executionType": 3,
+										"filter": null,
+										"isEnabled": true,
+										"visualAttributeEventType": {
+											"availableExecutionType": 7,
+											"description": "Permite personalizar la acci\u00f3n a ejecutar de un command o de un ActionControl",
+											"eventId": 10,
+											"name": "ExecuteCommand"
+										}
+									}
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_GUARDARWK_99639"
+									},
+									"labelId": "LBL_PRYCT_GUARDARWK_99639",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONWQZWNID_868871",
+								"options": 0,
+								"order": 5,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONWQZWNID_868871",
+								"width": null,
+								"widthComposite": "D"
+							}
 						]
 					}
 				],
