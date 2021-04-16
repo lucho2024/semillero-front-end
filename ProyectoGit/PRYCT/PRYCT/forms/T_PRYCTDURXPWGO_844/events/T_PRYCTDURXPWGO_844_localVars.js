@@ -1,1 +1,0 @@
-/* variables locales de T_PRYCTDURXPWGO_844*/

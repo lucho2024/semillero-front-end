@@ -129,11 +129,12 @@
 			"subForms": [
 			]
 		},
-		"T_PRYCTDURXPWGO_844": {
+		"T_PRYCTGITHJLHU_357": {
 			"blis": [
 			],
 			"entities": {
 				"EN_PERSONAAH_540": [
+					"AT31_EDADLHTR540",
 					"AT40_APELLIDD540",
 					"AT56_SEXOJXUC540",
 					"AT78_NOMBREUZ540"
@@ -147,9 +148,10 @@
 			],
 			"labels": [
 				"LBL_PRYCT_APELLIDOO_19518",
+				"LBL_PRYCT_EDADCNEJP_53756",
 				"LBL_PRYCT_GUARDARWK_99639",
 				"LBL_PRYCT_NOMBRECLP_43519",
-				"LBL_PRYCT_SEXOOAUYA_28585"
+				"LBL_PRYCT_SEXOINJDX_84087"
 			],
 			"queries": {
 			},
