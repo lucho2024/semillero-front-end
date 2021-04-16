@@ -57,7 +57,7 @@
 				"name": "FormularioJCAM"
 			},
 			"T_PRYCTMNTRRNFD_897": {
-				"name": "FormularioPGG"
+				"name": "EstudiantePGGForm"
 			},
 			"T_PRYCTNFPETNWE_316": {
 				"name": "FormularioGSC"
@@ -69,7 +69,7 @@
 				"name": "FormulariolLMHM"
 			},
 			"T_PRYCTSRZMXPQE_683": {
-				"name": "FormularioAAB"
+				"name": "EstudianteAabForm"
 			}
 		},
 		"Queries": {

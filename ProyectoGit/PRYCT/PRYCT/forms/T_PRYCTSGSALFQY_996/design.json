@@ -216,6 +216,71 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT25_SEXOSRMY480"
+								},
+								"attributeValidations": [
+								],
+								"cacheDuration": 0,
+								"catalogName": "cl_sexo",
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_SEXOINJDX_84087"
+									},
+									"labelId": "LBL_PRYCT_SEXOINJDX_84087",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"minChars": null,
+								"name": "sexo",
+								"options": 0,
+								"order": 4,
+								"queryId": null,
+								"queryMemberText": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryMemberValue": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryModule": null,
+								"queryVersion": null,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"type": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "ComboBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_SEXOBFODCLKVHET_895804",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
 								"attributeValidations": [
 								],
 								"colSpan": 1,
@@ -228,6 +293,12 @@
 										"customizationLayerDescription": "ECU",
 										"enabled": "T",
 										"eventActions": [
+											{
+												"actionArgs": [
+												],
+												"actionId": "CUSTOM",
+												"actionType": "CUSTOM"
+											}
 										],
 										"executionType": 1,
 										"filter": null,
