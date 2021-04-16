@@ -1,2 +1,16 @@
 [
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONQCZCFQT_450871",
+		"controlName": "VA_VABUTTONQCZCFQT_450871",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadPGG",
+		"eventsType": "visualAttributeEventType"
+	}
 ]
