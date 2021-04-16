@@ -699,7 +699,35 @@
 			},
 			"subForms": [
 			]
+		},
+                "T_PRYCTZIHNRXGS_644": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONADH_729": [
+					"AT22_APELLIDD729",
+					"AT45_NOMBREYO729",
+					"AT89_SEXOJKVQ729"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_19518",
+				"LBL_PRYCT_GUARDARWK_99639",
+				"LBL_PRYCT_NOMBRECLP_43519",
+				"LBL_PRYCT_SEXODENCP_40940"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
+
 	},
 	"Queries": {
 	}

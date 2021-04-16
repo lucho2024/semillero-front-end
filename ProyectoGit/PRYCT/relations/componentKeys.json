@@ -28,7 +28,7 @@
 			"name": "PersonaAHC"
 		},
 		"EN_PERSONADH_729": {
-			"name": "Persona"
+			"name": "PersonaGSC"
 		},
 		"EN_PERSONATC_108": {
 			"name": "PersonaLACT"
@@ -85,6 +85,9 @@
 			},
 			"T_PRYCTYDNQOYSI_867": {
 				"name": "EstudianteFormJCAM"
+			},
+                        "T_PRYCTZIHNRXGS_644": {
+				"name": "EstudianteGscForm"
 			}
 		},
 		"Queries": {
