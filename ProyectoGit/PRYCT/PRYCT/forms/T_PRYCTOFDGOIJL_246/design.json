@@ -160,9 +160,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_RESULTAEE_19876"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_RESULTAES_42949"
 									},
-									"labelId": "LBL_PRYCT_RESULTAEE_19876",
+									"labelId": "LBL_PRYCT_RESULTAES_42949",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
