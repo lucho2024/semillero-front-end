@@ -144,14 +144,69 @@
          "subForms": []
       },
       "T_PRYCTNFPETNWE_316": {
-         "blis": [],
-         "entities": {},
-         "externalEntities": {},
-         "externalQueries": {},
-         "header": [],
-         "labels": [],
-         "queries": {},
-         "subForms": []
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_PRYCTRDWNXGNK_963": {
+			"blis": [
+			],
+			"entities": {
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_PRYCTSGSALFQY_996": {
+			"blis": [
+			],
+			"entities": {
+				"EN_LUISHAMRU_480": [
+					"AT14_NOMBREJF480",
+					"AT25_SEXOSRMY480",
+					"AT36_APELLIDO480",
+					"AT38_EDADWJMD480"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_54638",
+				"LBL_PRYCT_CLICKHEER_30907",
+				"LBL_PRYCT_EDADRLOCQ_66755",
+				"LBL_PRYCT_NOMBRECLP_43519",
+				"LBL_PRYCT_SEXOINJDX_84087"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
       },
       "T_PRYCTSRZMXPQE_683": {
          "blis": [],
