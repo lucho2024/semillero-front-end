@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONOGPGXPN_762412",
+		"controlName": "VA_VABUTTONOGPGXPN_762412",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "PersonaGSC",
+		"eventsType": "visualAttributeEventType"
+	}
+]

@@ -81,6 +81,68 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2185",
+								"options": 0,
+								"order": 6,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2185",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2729",
+								"options": 0,
+								"order": 4,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2729",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
 								"attribute": {
 									"$ref": "../../../../PRYCT/entities/EN_AABTSAEXR_680.json#/attributes/AT76_SEXOSDFF680"
 								},
@@ -96,7 +158,7 @@
 								"customizationLayer": 0,
 								"customizationLayerDescription": "ECU",
 								"enabled": 4095,
-								"entityQuery": null,
+								"format": "",
 								"include": 4095,
 								"isCustomized": false,
 								"label": {

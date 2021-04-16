@@ -65,12 +65,12 @@
 							"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_PGGXLZGMMD_944871",
+						"groupId": "G_PGGZCTIKTM_950871",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1295",
+						"name": "Group1131",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -119,7 +119,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDOJLZLOVD_954871",
+								"visualAttributeId": "VA_APELLIDOGIVOIPA_740871",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -164,7 +164,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADKZYLMJASDNQ_727871",
+								"visualAttributeId": "VA_EDADXXQAWXEQFRN_606871",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -209,7 +209,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBRENUIYXVGYM_410871",
+								"visualAttributeId": "VA_NOMBRETDWKJXBZR_739871",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -217,7 +217,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT63_SEXOKLCJ873"
+									"$ref": "../../../../PRYCT/entities/EN_PGGEGJUBX_873.json#/attributes/AT34_SEXODZCR873"
 								},
 								"attributeValidations": [
 								],
@@ -274,7 +274,7 @@
 									"userControlId": "ComboBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_SEXOJVGBGHYNMWP_270871",
+								"visualAttributeId": "VA_SEXODPBKNBFRSXG_736871",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -288,7 +288,7 @@
 								"componentStyle": null,
 								"customEvents": [
 									{
-										"customEventId": "CEVA_010VA_VABUTTONWGXKCYX_878871_641",
+										"customEventId": "CEVA_010VA_VABUTTONWQZWNID_868871_239",
 										"customizationLayer": 0,
 										"customizationLayerDescription": "ECU",
 										"enabled": "T",
@@ -325,7 +325,7 @@
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONWGXKCYX_878871",
+								"name": "VA_VABUTTONWQZWNID_868871",
 								"options": 0,
 								"order": 5,
 								"queryModule": null,
@@ -339,7 +339,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONWGXKCYX_878871",
+								"visualAttributeId": "VA_VABUTTONWQZWNID_868871",
 								"width": null,
 								"widthComposite": "D"
 							}

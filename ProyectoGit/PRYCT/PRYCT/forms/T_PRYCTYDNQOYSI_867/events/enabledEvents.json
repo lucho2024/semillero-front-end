@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONZAMBBUW_765175",
+		"controlName": "VA_VABUTTONZAMBBUW_765175",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EstudianteJCAM",
+		"eventsType": "visualAttributeEventType"
+	}
+]

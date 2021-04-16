@@ -3,11 +3,17 @@
 		"EN_AABTSAEXR_680": {
 			"name": "EntidadAAB"
 		},
+		"EN_CATAFEYBW_956": {
+			"name": "EntidadCATA"
+		},
 		"EN_CSSSOFUXX_623": {
 			"name": "EntidadCSSS"
 		},
 		"EN_CSSSYSSLV_599": {
 			"name": "EntidadCSSS"
+		},
+		"EN_ESTUDIAMN_192": {
+			"name": "EstudianteJCAM"
 		},
 		"EN_JCAMEWECL_163": {
 			"name": "JCAM"
@@ -25,7 +31,7 @@
 			"name": "PersonaAHC"
 		},
 		"EN_PERSONADH_729": {
-			"name": "Persona"
+			"name": "PersonaGSC"
 		},
 		"EN_PERSONATC_108": {
 			"name": "PersonaLACT"
@@ -41,11 +47,20 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_PRYCTARZNMLLP_381": {
+				"name": "EstudianteLHMMform"
+			},
 			"T_PRYCTCBRETPDC_885": {
 				"name": "FormularioLACT"
 			},
 			"T_PRYCTDUFZYTQI_609": {
 				"name": "FormularioPrueba"
+			},
+			"T_PRYCTGITHJLHU_357": {
+				"name": "EstudianteAhcForm"
+			},
+                        "T_PRYCTGFVFSUOY_760": {
+				"name": "EstudianteCATAForm"
 			},
 			"T_PRYCTGSQXNCGT_397": {
 				"name": "FormularioLHMM"
@@ -62,14 +77,26 @@
 			"T_PRYCTNFPETNWE_316": {
 				"name": "FormularioGSC"
 			},
+			"T_PRYCTOFDGOIJL_246": {
+				"name": "EstudianteCSSSForm"
+			},
 			"T_PRYCTRDWNXGNK_963": {
 				"name": "FormularioKBRR"
 			},
 			"T_PRYCTSGSALFQY_996": {
-				"name": "FormulariolLMHM"
+				"name": "EstudianteLMHMForm"
 			},
 			"T_PRYCTSRZMXPQE_683": {
-				"name": "EstudianteAabForm"
+				"name": "EstudianteAABForm"
+			},
+			"T_PRYCTUKSLHBEB_695": {
+				"name": "EstudianteKBRRForm"
+			},
+			"T_PRYCTYDNQOYSI_867": {
+				"name": "EstudianteFormJCAM"
+			},
+			"T_PRYCTZIHNRXGS_644": {
+				"name": "EstudianteGscForm"
 			}
 		},
 		"Queries": {

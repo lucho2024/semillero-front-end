@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONAQTMFWP_572906",
+		"controlName": "VA_VABUTTONAQTMFWP_572906",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadCATA",
+		"eventsType": "visualAttributeEventType"
+	}
+]

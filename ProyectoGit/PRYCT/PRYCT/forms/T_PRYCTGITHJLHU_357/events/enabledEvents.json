@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONQHDTFRI_595662",
+		"controlName": "VA_VABUTTONQHDTFRI_595662",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "PersonaAHC",
+		"eventsType": "visualAttributeEventType"
+	}
+]
