@@ -1,2 +1,32 @@
 {
+	"APP_GRUPOCWWQSD_722": {
+		"externalModules": {
+		},
+		"forms": {
+			"PRYCT": [
+				{
+					"generated": 0,
+					"moduleId": "PRYCT",
+					"name": "EstudianteAabForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTSRZMXPQE_683",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoC",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOCWWQSD_722",
+		"mainPortletTaskId": "T_PRYCTSRZMXPQE_683",
+		"modules": [
+			"PRYCT"
+		],
+		"name": "GrupoC"
+	}
 }
