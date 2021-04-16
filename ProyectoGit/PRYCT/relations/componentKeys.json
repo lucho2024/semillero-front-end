@@ -44,6 +44,9 @@
 		"CompositeForms": {
 		},
       "Forms": {
+			"T_PRYCTARZNMLLP_381": {
+				"name": "EstudianteLHMMform"
+			},
          "T_PRYCTCBRETPDC_885": {
             "name": "FormularioLACT"
          },
