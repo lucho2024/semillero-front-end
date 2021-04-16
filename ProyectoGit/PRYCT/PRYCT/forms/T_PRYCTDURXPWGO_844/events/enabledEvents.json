@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONKKIBKYE_758947",
+		"controlName": "VA_VABUTTONKKIBKYE_758947",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "PersonaAHC",
+		"eventsType": "visualAttributeEventType"
+	}
+]
