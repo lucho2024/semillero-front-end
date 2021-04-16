@@ -1,2 +1,16 @@
 [
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONUEEZEME_143703",
+		"controlName": "VA_VABUTTONUEEZEME_143703",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "EntidadAAB",
+		"eventsType": "visualAttributeEventType"
+	}
 ]
