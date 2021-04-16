@@ -6,6 +6,10 @@
 			"labels": [
 			]
 		},
+		"EN_CATAFEYBW_956": {
+			"labels": [
+			]
+		},
 		"EN_CSSSOFUXX_623": {
 			"labels": [
 			]
@@ -535,6 +539,35 @@
 			],
 			"Queries": {
 			}
+		},
+		"T_PRYCTGFVFSUOY_760": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CATAFEYBW_956": [
+					"AT43_SEXOGMHY956",
+					"AT52_EDADIZYK956",
+					"AT92_APELLIDO956",
+					"AT98_NOMBREOB956"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_19518",
+				"LBL_PRYCT_EDADCNEJP_53756",
+				"LBL_PRYCT_GUARDARWK_99639",
+				"LBL_PRYCT_NOMBRECLP_43519",
+				"LBL_PRYCT_SEXOAUQBU_41132"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		},
 		"T_PRYCTMNTRRNFD_897": {
 			"blis": [
