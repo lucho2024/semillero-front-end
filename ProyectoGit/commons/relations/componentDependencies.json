@@ -569,6 +569,37 @@
 			"Queries": {
 			}
 		},
+		"T_PRYCTARZNMLLP_381": {
+			"blis": [
+			],
+			"entities": {
+				"EN_LUISMONYA_862": [
+					"AT28_EDADOPOG862",
+					"AT50_APELLIDD862",
+					"AT51_SEXOYWPK862",
+					"AT69_NOMBRECM862",
+					"AT75_NOMBREBT862"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_PRYCT_APELLIDOO_19518",
+				"LBL_PRYCT_EDADCNEJP_53756",
+				"LBL_PRYCT_GUARDARWK_99639",
+				"LBL_PRYCT_NOMBRECEM_43161",
+				"LBL_PRYCT_NOMBRECLP_43519",
+				"LBL_PRYCT_SEXOAUQBU_41132"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},	
 		"T_PRYCTGFVFSUOY_760": {
 			"blis": [
 			],
