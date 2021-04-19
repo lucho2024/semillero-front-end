@@ -1,4 +1,5 @@
 {
+<<<<<<< remotes/origin/Rama_LMHM
    "Entities": {
       "EN_AABTSAEXR_680": {
          "name": "EntidadAAB"
@@ -74,4 +75,108 @@
       "Queries": {},
       "SubForms": {}
    }
+=======
+	"Entities": {
+		"EN_AABTSAEXR_680": {
+			"name": "EntidadAAB"
+		},
+		"EN_CATAFEYBW_956": {
+			"name": "EntidadCATA"
+		},
+		"EN_CSSSOFUXX_623": {
+			"name": "EntidadCSSS"
+		},
+		"EN_CSSSYSSLV_599": {
+			"name": "EntidadCSSS"
+		},
+		"EN_ESTUDIAMN_192": {
+			"name": "EstudianteJCAM"
+		},
+		"EN_JCAMEWECL_163": {
+			"name": "JCAM"
+		},
+		"EN_KBRRWKQNH_697": {
+			"name": "EntidadKBRR"
+		},
+		"EN_LUISHAMRU_480": {
+			"name": "LuisHamburger"
+		},
+		"EN_LUISMONYA_862": {
+			"name": "LuisMontoya"
+		},
+		"EN_PERSONAAH_540": {
+			"name": "PersonaAHC"
+		},
+		"EN_PERSONADH_729": {
+			"name": "PersonaGSC"
+		},
+		"EN_PERSONATC_108": {
+			"name": "PersonaLACT"
+		},
+		"EN_PGGEGJUBX_873": {
+			"name": "EntidadPGG"
+		},
+		"EN_PRUEBARHS_234": {
+			"name": "Prueba"
+		}
+	},
+	"PRYCT": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_PRYCTARZNMLLP_381": {
+				"name": "EstudianteLHMMform"
+			},
+			"T_PRYCTCBRETPDC_885": {
+				"name": "FormularioLACT"
+			},
+			"T_PRYCTDUFZYTQI_609": {
+				"name": "FormularioPrueba"
+			},
+			"T_PRYCTGFVFSUOY_760": {
+				"name": "EstudianteCATAForm"
+			},
+			"T_PRYCTGITHJLHU_357": {
+				"name": "EstudianteAhcForm"
+			},
+			"T_PRYCTMDXVYYEJ_822": {
+				"name": "FormularioCSSS"
+			},
+			"T_PRYCTMNOAZWYG_512": {
+				"name": "FormularioJCAM"
+			},
+			"T_PRYCTMNTRRNFD_897": {
+				"name": "EstudiantePGGForm"
+			},
+			"T_PRYCTNFPETNWE_316": {
+				"name": "FormularioGSC"
+			},
+			"T_PRYCTOFDGOIJL_246": {
+				"name": "EstudianteCSSSForm"
+			},
+			"T_PRYCTRDWNXGNK_963": {
+				"name": "FormularioKBRR"
+			},
+			"T_PRYCTSGSALFQY_996": {
+				"name": "EstudianteLMHMForm"
+			},
+			"T_PRYCTSRZMXPQE_683": {
+				"name": "EstudianteAABForm"
+			},
+			"T_PRYCTUKSLHBEB_695": {
+				"name": "EstudianteKBRRForm"
+			},
+			"T_PRYCTYDNQOYSI_867": {
+				"name": "EstudianteFormJCAM"
+			},
+			"T_PRYCTZIHNRXGS_644": {
+				"name": "EstudianteGscForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+>>>>>>> local
 }

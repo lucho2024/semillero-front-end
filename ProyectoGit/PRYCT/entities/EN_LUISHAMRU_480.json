@@ -79,7 +79,7 @@
 			"columnName": null,
 			"customizationLayer": 0,
 			"customizationLayerDescription": "ECU",
-			"dataType": "String",
+			"dataType": "Integer",
 			"entityPk": {
 				"entityId": "EN_LUISHAMRU_480",
 				"version": "1.0.0"

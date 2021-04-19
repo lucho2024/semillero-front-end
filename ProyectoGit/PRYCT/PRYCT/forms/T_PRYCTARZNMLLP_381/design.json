@@ -13,15 +13,15 @@
 	"id": {
 		"moduleId": "PRYCT",
 		"subModuleId": "PRYCT",
-		"taskId": "T_PRYCTSGSALFQY_996",
+		"taskId": "T_PRYCTARZNMLLP_381",
 		"version": "1.0.0"
 	},
 	"isCustomized": false,
 	"isImported": false,
-	"mainViewContainerId": "VC_LLMHMDYJML_762996",
+	"mainViewContainerId": "VC_ESTUDIANTM_573381",
 	"modeEnabled": 4095,
 	"name": {
-		"$ref": "../../../../PRYCT/relations/componentKeys.json#/PRYCT/Forms/T_PRYCTSGSALFQY_996/name"
+		"$ref": "../../../../PRYCT/relations/componentKeys.json#/PRYCT/Forms/T_PRYCTARZNMLLP_381/name"
 	},
 	"setFocus": false,
 	"tempSaveStr": "F",
@@ -40,13 +40,13 @@
 			"id": {
 				"moduleId": "PRYCT",
 				"subModuleId": "PRYCT",
-				"taskId": "T_PRYCTSGSALFQY_996",
+				"taskId": "T_PRYCTARZNMLLP_381",
 				"taskVersion": "1.0.0",
-				"viewContainerId": "VC_LLMHMDYJML_762996"
+				"viewContainerId": "VC_ESTUDIANTM_573381"
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "FormulariolLMHM",
+			"name": "EstudianteLHMMform",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -62,15 +62,15 @@
 						],
 						"enabled": 4095,
 						"entity": {
-							"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#"
+							"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#"
 						},
 						"eventType": 0,
-						"groupId": "G_LLMHMYGCDS_618804",
+						"groupId": "G_ESTUDIAELL_769698",
 						"htmlSection": "F",
 						"independentValidation": "F",
 						"isCustomized": false,
 						"layoutType": "Group",
-						"name": "Group1133",
+						"name": "Group1398",
 						"order": 1,
 						"orientation": "V",
 						"responsiveLayouts": null,
@@ -81,8 +81,39 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer1563",
+								"options": 0,
+								"order": 6,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer1563",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT36_APELLIDO480"
+									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT50_APELLIDD862"
 								},
 								"attributeValidations": [
 								],
@@ -99,9 +130,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_APELLIDOO_54638"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_APELLIDOO_19518"
 									},
-									"labelId": "LBL_PRYCT_APELLIDOO_54638",
+									"labelId": "LBL_PRYCT_APELLIDOO_19518",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
@@ -119,7 +150,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_APELLIDOEBEFVYP_142804",
+								"visualAttributeId": "VA_APELLIDOCLKGYRN_803698",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -127,7 +158,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT38_EDADWJMD480"
+									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT28_EDADOPOG862"
 								},
 								"attributeValidations": [
 								],
@@ -144,9 +175,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_EDADRLOCQ_66755"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_EDADCNEJP_53756"
 									},
-									"labelId": "LBL_PRYCT_EDADRLOCQ_66755",
+									"labelId": "LBL_PRYCT_EDADCNEJP_53756",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
@@ -164,7 +195,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_EDADWOQTJETVHJC_406804",
+								"visualAttributeId": "VA_EDADTZSOKDGWGEF_806698",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -172,7 +203,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT14_NOMBREJF480"
+									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT75_NOMBREBT862"
 								},
 								"attributeValidations": [
 								],
@@ -209,7 +240,7 @@
 									"userControlId": "TextInputBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_NOMBREOTYHRRJMB_288804",
+								"visualAttributeId": "VA_NOMBREHQYRVKQEM_730698",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -217,7 +248,7 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT25_SEXOSRMY480"
+									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT51_SEXOYWPK862"
 								},
 								"attributeValidations": [
 								],
@@ -236,9 +267,9 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_SEXOINJDX_84087"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_SEXOAUQBU_41132"
 									},
-									"labelId": "LBL_PRYCT_SEXOINJDX_84087",
+									"labelId": "LBL_PRYCT_SEXOAUQBU_41132",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
@@ -274,7 +305,7 @@
 									"userControlId": "ComboBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_SEXOBFODCLKVHET_895804",
+								"visualAttributeId": "VA_SEXOCYOXAVFELMS_161698",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -288,7 +319,7 @@
 								"componentStyle": null,
 								"customEvents": [
 									{
-										"customEventId": "CEVA_010VA_VABUTTONNDQNZHK_354804_595",
+										"customEventId": "CEVA_010VA_VABUTTONHDNDZNA_554698_177",
 										"customizationLayer": 0,
 										"customizationLayerDescription": "ECU",
 										"enabled": "T",
@@ -319,15 +350,15 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_CLICKHEER_30907"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_GUARDARWK_99639"
 									},
-									"labelId": "LBL_PRYCT_CLICKHEER_30907",
+									"labelId": "LBL_PRYCT_GUARDARWK_99639",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
-								"name": "VA_VABUTTONNDQNZHK_354804",
+								"name": "VA_VABUTTONHDNDZNA_554698",
 								"options": 0,
-								"order": 4,
+								"order": 5,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,
@@ -339,7 +370,7 @@
 									"userControlId": "Button"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_VABUTTONNDQNZHK_354804",
+								"visualAttributeId": "VA_VABUTTONHDNDZNA_554698",
 								"width": null,
 								"widthComposite": "D"
 							}
@@ -348,7 +379,7 @@
 				],
 				"id": {
 					"version": "1.0.0",
-					"viewId": "VW_LLMHMDKRVX_804"
+					"viewId": "VW_ESTUDIANEM_698"
 				},
 				"metadataVersion": "7.2.0.2024 BETA",
 				"modules": [
@@ -356,7 +387,7 @@
 						"moduleId": "PRYCT"
 					}
 				],
-				"name": "View of FormulariolLMHM"
+				"name": "View of EstudianteLHMMform"
 			}
 		}
 	]

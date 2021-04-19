@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0">
+    <scr:component enabled="true" name="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONHDNDZNA_554698">
+        <implementation class="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONHDNDZNA_554698"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.customization.IExecuteCommand"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANEM_698" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="view.controlId" type="String" value="VA_VABUTTONHDNDZNA_554698" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONHDNDZNA_554698" private="false"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONNDQNZHK_354804">
+        <implementation class="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONNDQNZHK_354804"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.customization.IExecuteCommand"/>
+        </service>
+        <property name="view.id" type="String" value="VW_LLMHMDKRVX_804" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="view.controlId" type="String" value="VA_VABUTTONNDQNZHK_354804" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONNDQNZHK_354804" private="false"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONQGPDKAH_575746">
+        <implementation class="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONQGPDKAH_575746"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.customization.IExecuteCommand"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANEK_746" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="view.controlId" type="String" value="VA_VABUTTONQGPDKAH_575746" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONQGPDKAH_575746" private="false"/>
+    </scr:component>
+    <scr:component enabled="true" name="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONZAMBBUW_765175">
+        <implementation class="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONZAMBBUW_765175"/>
+        <service servicefactory="false">
+            <provide interface="com.cobiscorp.designer.api.customization.IExecuteCommand"/>
+        </service>
+        <property name="view.id" type="String" value="VW_ESTUDIANMM_175" private="false"/>
+        <property name="view.version" type="String" value="1.0.0" private="false"/>
+        <property name="view.controlId" type="String" value="VA_VABUTTONZAMBBUW_765175" private="false"/>
+        <property name="service.pid" value="com.cobiscorp.cobis.pryct.customevents.impl.view.executecommand.VA_VABUTTONZAMBBUW_765175" private="false"/>
+    </scr:component>
+</components>
