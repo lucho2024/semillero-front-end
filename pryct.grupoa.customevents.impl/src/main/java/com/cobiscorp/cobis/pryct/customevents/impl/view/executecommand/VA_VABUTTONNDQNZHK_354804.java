@@ -19,6 +19,8 @@ import org.apache.felix.scr.annotations.Property;
 import org.apache.felix.scr.annotations.Service;
 import com.cobiscorp.cobis.commons.domains.log.ILogger;
 import com.cobiscorp.cobis.commons.log.LogFactory;
+import com.cobiscorp.cobis.pryct.model.LuisHamburger;
+import com.cobiscorp.designer.api.DataEntity;
 import com.cobiscorp.designer.api.DynamicRequest;
 import com.cobiscorp.designer.api.customization.IExecuteCommand;
 import com.cobiscorp.designer.api.customization.arguments.IExecuteCommandEventArgs;
@@ -40,6 +42,16 @@ public class VA_VABUTTONNDQNZHK_354804 implements IExecuteCommand {
 	@Override
 	public void executeCommand(DynamicRequest arg0, IExecuteCommandEventArgs arg1) {
 		// TODO Auto-generated method stub
+		
+	DataEntity lh = arg0.getEntity(LuisHamburger.ENTITY_NAME);
+		
+		String nombre = lh.get(LuisHamburger.NOMBRE);
+		String apellido = lh.get(LuisHamburger.APELLIDO);
+		
+		String nombreCompleto = nombre +" "+apellido;
+		String sexo = lh.get(LuisHamburger.SEXO);
+		double edad = lh.get(LuisHamburger.EDAD);		
+		lh.set(LuisHamburger.FULL, nombreCompleto);
 		try {
 			if (logger.isDebugEnabled()) {
 				logger.logDebug("Start executeCommand in VA_VABUTTONNDQNZHK_354804");

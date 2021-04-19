@@ -144,10 +144,12 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
-									"$ref": "../../../../PRYCT/entities/EN_AABTSAEXR_680.json#/attributes/AT10_EDADNCDB680"
+									"$ref": "../../../../PRYCT/entities/EN_AABTSAEXR_680.json#/attributes/AT76_SEXOSDFF680"
 								},
 								"attributeValidations": [
 								],
+								"cacheDuration": 0,
+								"catalogName": "cl_sexo",
 								"colSpan": 1,
 								"componentInGrid": false,
 								"componentStyle": null,
@@ -161,27 +163,45 @@
 								"isCustomized": false,
 								"label": {
 									"defaultValue": {
-										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_EDADCNEJP_53756"
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_SEXOWQPZN_95789"
 									},
-									"labelId": "LBL_PRYCT_EDADCNEJP_53756",
+									"labelId": "LBL_PRYCT_SEXOWQPZN_95789",
 									"moduleId": "PRYCT"
 								},
 								"maxRecords": null,
-								"name": "edad",
+								"minChars": null,
+								"name": "sexo",
 								"options": 0,
 								"order": 3,
+								"queryId": null,
+								"queryMemberText": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryMemberValue": {
+									"attribute": {
+										"attributeId": null,
+										"name": null
+									},
+									"queryMemberId": null
+								},
+								"queryModule": null,
+								"queryVersion": null,
 								"readOnly": 8,
 								"responsiveLayouts": null,
 								"responsivity": false,
 								"sizeWidthComposite": null,
 								"style": null,
-								"textRows": 0,
+								"type": null,
 								"userControl": {
 									"type": "I",
-									"userControlId": "TextInputBox"
+									"userControlId": "ComboBox"
 								},
 								"visible": 4095,
-								"visualAttributeId": "VA_5568YZTKGIVDZMS_604703",
+								"visualAttributeId": "VA_5569RRMZPFLGWHA_437703",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -284,6 +304,29 @@
 								"componentInGrid": false,
 								"componentStyle": null,
 								"customEvents": [
+									{
+										"customEventId": "CEVA_010VA_VABUTTONUEEZEME_143703_144",
+										"customizationLayer": 0,
+										"customizationLayerDescription": "ECU",
+										"enabled": "T",
+										"eventActions": [
+											{
+												"actionArgs": [
+												],
+												"actionId": "CUSTOM",
+												"actionType": "CUSTOM"
+											}
+										],
+										"executionType": 3,
+										"filter": null,
+										"isEnabled": true,
+										"visualAttributeEventType": {
+											"availableExecutionType": 7,
+											"description": "Permite personalizar la acci\u00f3n a ejecutar de un command o de un ActionControl",
+											"eventId": 10,
+											"name": "ExecuteCommand"
+										}
+									}
 								],
 								"customizationLayer": 0,
 								"customizationLayerDescription": "ECU",
@@ -301,7 +344,7 @@
 								"maxRecords": null,
 								"name": "VA_VABUTTONUEEZEME_143703",
 								"options": 0,
-								"order": 5,
+								"order": 4,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,

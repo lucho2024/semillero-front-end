@@ -46,7 +46,7 @@
 			},
 			"isCustomized": false,
 			"layoutType": "Group",
-			"name": "FormulariolLMHM",
+			"name": "EstudianteLMHMform",
 			"options": 0,
 			"responsiveLayouts": null,
 			"responsivity": false,
@@ -78,6 +78,49 @@
 						"style": null,
 						"visible": 4095,
 						"visualAttributes": [
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../PRYCT/entities/EN_LUISHAMRU_480.json#/attributes/AT33_FULLJXNQ480"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_NOMBRECEM_43161"
+									},
+									"labelId": "LBL_PRYCT_NOMBRECEM_43161",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "full",
+								"options": 0,
+								"order": 6,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextLabel"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_4470UODUUKATWRP_948804",
+								"width": null,
+								"widthComposite": "D"
+							},
 							{
 								"aggregate": null,
 								"aggregateId": null,
@@ -327,7 +370,7 @@
 								"maxRecords": null,
 								"name": "VA_VABUTTONNDQNZHK_354804",
 								"options": 0,
-								"order": 4,
+								"order": 5,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,

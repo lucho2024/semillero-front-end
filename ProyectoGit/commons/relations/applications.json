@@ -1,2 +1,148 @@
 {
+	"APP_GRUPOANDERV_274": {
+		"externalModules": {
+		},
+		"forms": {
+			"PRYCT": [
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteLHMMform",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTARZNMLLP_381",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "PRYCT",
+					"name": "EstudianteLMHMForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTSGSALFQY_996",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteKBRRForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTUKSLHBEB_695",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteFormJCAM",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTYDNQOYSI_867",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoA",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOANDERV_274",
+		"mainPortletTaskId": "T_PRYCTARZNMLLP_381",
+		"modules": [
+			"PRYCT"
+		],
+		"name": "GrupoA"
+	},
+	"APP_GRUPOBNBRRU_533": {
+		"externalModules": {
+		},
+		"forms": {
+			"PRYCT": [
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteAhcForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTGITHJLHU_357",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteCSSSForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTOFDGOIJL_246",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteGscForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTZIHNRXGS_644",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoB",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOBNBRRU_533",
+		"mainPortletTaskId": "T_PRYCTGITHJLHU_357",
+		"modules": [
+			"PRYCT"
+		],
+		"name": "GrupoB"
+	},
+	"APP_GRUPOCWWQSD_722": {
+		"externalModules": {
+		},
+		"forms": {
+			"PRYCT": [
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudianteCATAForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTGFVFSUOY_760",
+					"type": "Simple form"
+				},
+				{
+					"generated": 4,
+					"moduleId": "PRYCT",
+					"name": "EstudiantePGGForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTMNTRRNFD_897",
+					"type": "Simple form"
+				},
+				{
+					"generated": 0,
+					"moduleId": "PRYCT",
+					"name": "EstudianteAABForm",
+					"subModuleId": "PRYCT",
+					"taskId": "T_PRYCTSRZMXPQE_683",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "GrupoC",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_GRUPOCWWQSD_722",
+		"mainPortletTaskId": "T_PRYCTSRZMXPQE_683",
+		"modules": [
+			"PRYCT"
+		],
+		"name": "GrupoC"
+	}
 }

@@ -19,6 +19,8 @@ import org.apache.felix.scr.annotations.Property;
 import org.apache.felix.scr.annotations.Service;
 import com.cobiscorp.cobis.commons.domains.log.ILogger;
 import com.cobiscorp.cobis.commons.log.LogFactory;
+import com.cobiscorp.cobis.pryct.model.LuisMontoya;
+import com.cobiscorp.designer.api.DataEntity;
 import com.cobiscorp.designer.api.DynamicRequest;
 import com.cobiscorp.designer.api.customization.IExecuteCommand;
 import com.cobiscorp.designer.api.customization.arguments.IExecuteCommandEventArgs;
@@ -39,10 +41,20 @@ public class VA_VABUTTONHDNDZNA_554698 implements IExecuteCommand {
 
 	@Override
 	public void executeCommand(DynamicRequest arg0, IExecuteCommandEventArgs arg1) {
+		DataEntity luismontoya = arg0.getEntity(LuisMontoya.ENTITY_NAME);
+		
+		String nombre = luismontoya.get(LuisMontoya.NOMBRE);
+		String apellido = luismontoya.get(LuisMontoya.APELLIDO);
+		
+		String nombreCompleto = nombre +" "+apellido;
+		String sexo = luismontoya.get(LuisMontoya.SEXO);
+		double edad = luismontoya.get(LuisMontoya.EDAD);		
+		luismontoya.set(LuisMontoya.NOMBRECOMPLETO, nombreCompleto);
 		// TODO Auto-generated method stub
 		try {
 			if (logger.isDebugEnabled()) {
 				logger.logDebug("Start executeCommand in VA_VABUTTONHDNDZNA_554698");
+				logger.logDebug("Nombre : "+nombre +" apellido : "+apellido);
 			}
 		} catch (Exception ex) {
 			DesignerManagerException.handleException(arg1.getMessageManager(), ex, logger);

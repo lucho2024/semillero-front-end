@@ -81,7 +81,7 @@
 							{
 								"aggregate": null,
 								"aggregateId": null,
-								"attributeValidations": [
+			"attributeValidations": [
 								],
 								"colSpan": 1,
 								"componentInGrid": false,
@@ -111,7 +111,7 @@
 							},
 							{
 								"aggregate": null,
-								"aggregateId": null,
+								"aggregateId": null,					 							
 								"attribute": {
 									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT50_APELLIDD862"
 								},
@@ -203,6 +203,50 @@
 								"aggregate": null,
 								"aggregateId": null,
 								"attribute": {
+		"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT69_NOMBRECM862"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../PRYCT/assets/languages/PRYCT.json#/PRYCT/LBL/LBL_PRYCT_NOMBRECEM_43161"
+									},
+									"labelId": "LBL_PRYCT_NOMBRECEM_43161",
+									"moduleId": "PRYCT"
+								},
+								"maxRecords": null,
+								"name": "nombreCompleto",
+								"options": 0,
+								"order": 7,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextLabel"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_NOMBRECOMPLEOTO_260698",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {																							
 									"$ref": "../../../../PRYCT/entities/EN_LUISMONYA_862.json#/attributes/AT75_NOMBREBT862"
 								},
 								"attributeValidations": [

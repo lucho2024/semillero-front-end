@@ -10,7 +10,6 @@ task.executeCommand.VA_VABUTTONNDQNZHK_354804 = function(  entities, executeComm
     
     let nombre = entities.LuisHamburger.nombre;
     let apellido = entities.LuisHamburger.apellido;
-    let edad  = entities.LuisHamburger.edad;
     
-    alert("Hola "+ nombre + " " + apellido );
+     console.log("Hola "+ nombre + " " + apellido );
 };
